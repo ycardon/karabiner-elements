@@ -5,6 +5,7 @@
       "description": "Dev layout for azerty mac: caps_lock + aze→([{ qsd→)]} wl→| xn→~ :→\\",
       "manipulators": [
         {
+          "description": "internal (toggle caps_lock pressed variable)",
           "type": "basic",
           "from": {
             "key_code": "caps_lock",
@@ -33,6 +34,7 @@
         },
 
         {
+          "description": "⇪ + a → (",
           "type": "basic",
           "from": {
             "key_code": "q",
@@ -57,6 +59,7 @@
         },
 
         {
+          "description": "⇪ + z → [",
           "type": "basic",
           "from": {
             "key_code": "w",
@@ -85,6 +88,7 @@
         },
 
         {
+          "description": "⇪ + e → {",
           "type": "basic",
           "from": {
             "key_code": "e",
@@ -112,6 +116,7 @@
         },
 
         {
+          "description": "⇪ + q → )",
           "type": "basic",
           "from": {
             "key_code": "a",
@@ -136,6 +141,7 @@
         },
 
         {
+          "description": "⇪ + s → ]",
           "type": "basic",
           "from": {
             "key_code": "s",
@@ -164,6 +170,7 @@
         },
 
         {
+          "description": "⇪ + d → }",
           "type": "basic",
           "from": {
             "key_code": "d",
@@ -191,6 +198,7 @@
         },
 
         {
+          "description": "⇪ + w → | (pipe)",
           "type": "basic",
           "from": {
             "key_code": "z",
@@ -219,6 +227,7 @@
         },
 
         {
+          "description": "⇪ + l → | (pipe)",
           "type": "basic",
           "from": {
             "key_code": "l",
@@ -247,6 +256,7 @@
         },
 
         {
+          "description": "⇪ + x → ~",
           "type": "basic",
           "from": {
             "key_code": "x",
@@ -274,6 +284,7 @@
         },
 
         {
+          "description": "⇪ + n → ~",
           "type": "basic",
           "from": {
             "key_code": "n",
@@ -301,6 +312,7 @@
         },
 
         {
+          "description": "⇪ + : → \\ (antislash)",
           "type": "basic",
           "from": {
             "key_code": "period",
